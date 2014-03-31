@@ -8,7 +8,7 @@ Inspired by [keychain.io](https://github.com/progrium/keychain.io), just make SS
 curl -s https://raw.githubusercontent.com/wbinglee/publickeys/master/install.sh | bash
 ```
 
-It may too long to remember, go to [TinyURL](http://tinyurl.com) to have a customized short url:
+It may be too long to remember, go to [TinyURL](http://tinyurl.com) to have a customized short url:
 
 ```
 curl -sL http://tinyurl.com/brucepublickey | bash
