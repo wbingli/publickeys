@@ -1,0 +1,4 @@
+mkdir -p $HOME/.ssh
+touch $HOME/.ssh/authorized_keys
+
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+P1XrV0nPkUn1+B//QmNNGVvPkPTtuHoKSfsrowW+OLzt3Gn3RmAWKkz7d5pSeEv2sv7qE25p0n6ouSKJYF5Zwl3vg//1ui3Rej48ypPd4f3RjjZ0F1cUM13WDRT5x6paOGb4HLRJjxdV0Lq2+DQc3JFhCuhRosIaqShdOmfOqvhYWZEWTEhExm0G9Q3ptNSJD2cuVAaMf/Mh2VeQgsWQuTzwu+M0nvlp41LsXvkL5lx7Dm2efow9rr2YA3lGRyCeSZ0Z5mNmzui+6pw7dGf2W0WbtjzjRqffNo/Ik6J19Lpw1/cYk7wE2j9yDgdi6XozYt420frb3mQ1+mFeQLEz bruce@bruce-li" >> $HOME/.ssh/authorized_keys
